@@ -19,6 +19,7 @@ as a hands-on introduction to embedded systems, Linux, and cybersecurity.
 - RetroPie (retro gaming)
 
 ## Progress Log
+- Wireshark, Metasploit, EternalBlue, git setup.
 
 ### May 2025 — Stage 0
 - Installed Kali Linux 2026.1 via VirtualBox on Windows
